@@ -11,7 +11,7 @@ temperature: 0
 Hello World Coolness
 
 ```stub
-Write hello world to the readme file
+Write Codestub.ai to the readme file
 ```
 
 
