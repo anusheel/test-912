@@ -11,7 +11,7 @@ temperature: 0
 Hello World Coolness
 
 ```stub
-create a simple readme file with a hello world heading. Make sure to include the name of the files along with the ticks in your response. Also do not respond with any editor commands.
+Write hello world to the readme file
 ```
 
 
