@@ -10,3 +10,8 @@ temperature: 0
 
 Hello World Coolness
 
+```stub
+create a simple readme file with a hello world heading
+```
+
+
