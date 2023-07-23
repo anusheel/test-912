@@ -17,3 +17,9 @@ ok
 
 Hmm
 
+
+
+```stub
+Append foo at end of current readme
+```
+
